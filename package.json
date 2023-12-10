@@ -27,7 +27,7 @@
         "jsdoc:serve": "http-server ./docs/ -o"
     },
     "dependencies": {
-        "@openzeppelin/contracts": "^3.4.1",
+        "@openzeppelin/contracts": "^4.9.5",
         "abi-decoder": "^1.2.0",
         "accounting": "^0.4.1",
         "babel-cli": "^6.26.0",
